@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
@@ -9,3 +10,16 @@
 	<classpathentry kind="lib" path="C:/Users/yogesh/Desktop/Student-Teacher-Portal-master/mysql-connector-java-8.0.13.jar.zip"/>
 	<classpathentry kind="output" path="Student Teacher Portal/build/classes"/>
 </classpath>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="Student Teacher Portal/src"/>
+	<classpathentry kind="lib" path="C:/Users/yogesh/Desktop/Student-Teacher-Portal-master/mysql-connector-java-8.0.13.jar.zip"/>
+	<classpathentry kind="output" path="Student Teacher Portal/build/classes"/>
+</classpath>
+>>>>>>> f389d570939a5ae871c00e20d298e98edd37f3d7
